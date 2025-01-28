@@ -24,5 +24,7 @@ For more information on the dataset, visit [Amazon Product Data](https://nijianm
 Install the required libraries using:
 
 pip install numpy pandas nltk scikit-learn imbalanced-learn
+
 nltk.download('wordnet')
+
 nltk.download('stopwords')
